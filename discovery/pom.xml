@@ -17,6 +17,11 @@
             <version>3.8.1</version>
             <scope>test</scope>
         </dependency>
+        <!--  eureka server依赖,用于服务发现 -->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-eureka-server</artifactId>
+        </dependency>
     </dependencies>
     <build>
         <finalName>discovery</finalName>
