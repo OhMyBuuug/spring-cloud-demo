@@ -14,6 +14,7 @@
     <module>service-1</module>
     <module>discovery</module>
     <module>service-0</module>
+    <module>gateway</module>
   </modules>
 
   <!--以下dependency来自官方-->
